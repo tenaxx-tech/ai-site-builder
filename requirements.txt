@@ -1,4 +1,0 @@
-python-dotenv
-langchain-openai
-flask
-# Добавьте сюда другие библиотеки по мере необходимости
